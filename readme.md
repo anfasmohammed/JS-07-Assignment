@@ -1,14 +1,14 @@
 1. 	Write short notes on below array methods with code examples
-   •	reverse()
-   •	sort()
-   •	fill()
-   •	filter()
-   •	some()
-   •	every()
-   •	map()
-   •	forEach()
-   •	reduce()
-   •	indexOf()
+   -	reverse()
+   -	sort()
+   -	fill()
+   -	filter()
+   -	some()
+   -	every()
+   -	map()
+   -	forEach()
+   -	reduce()
+   -	indexOf()
 
 Ans.
 - reverse() : This method in JavaScript is used to reverse the order of elements in an array.
